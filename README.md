@@ -1,8 +1,8 @@
 # GSoC 2026 Qualification Task: "Upstream Readiness" Audit
 
-**Applicant:** Harsh
-**Project:** Upstreaming key4hep packages to Spack builtin  
-**Mentor:** Wouter Deconinck
+**Applicant:** Harsh   
+**Project:** Upstreaming key4hep packages to Spack builtin    
+**Mentor:** Wouter Deconinck  
 
 ## Files
 
