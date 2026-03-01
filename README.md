@@ -1,6 +1,6 @@
-# GSoC 2026: Upstreaming key4hep Packages to Spack
+# GSoC 2026 Qualification Task: "Upstream Readiness" Audit
 
-**Applicant:** Harsh  
+**Applicant:** Harsh
 **Project:** Upstreaming key4hep packages to Spack builtin  
 **Mentor:** Wouter Deconinck
 
@@ -14,4 +14,4 @@
 
 ## AI Disclosure
 
-AI assistance (Claude) was used for non-routine tasks including audit methodology design, package recipe analysis, and report structuring. All findings were manually verified using Spack CLI tools against the actual repositories. I take full responsibility for all content and results.
+AI assistance (Claude) was used for non-routine tasks including audit methodology design, package recipe analysis and report structuring. All findings were manually verified using Spack CLI tools against the actual repositories. I take full responsibility for all content and results.
